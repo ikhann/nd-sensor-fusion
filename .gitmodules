@@ -1,0 +1,3 @@
+[submodule "p1-lidar-obstacle-detection/SFND_Lidar_Obstacle_Detection"]
+	path = p1-lidar-obstacle-detection/SFND_Lidar_Obstacle_Detection
+	url = https://github.com/ikhann/SFND_Lidar_Obstacle_Detection
